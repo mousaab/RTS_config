@@ -19,4 +19,4 @@ n= int(input("Number?"))
 if n<=10:
     print(n+10)
 else:
-    print(n+5)
+    print(n+15)
